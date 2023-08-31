@@ -1,0 +1,76 @@
+.wrapper{
+	width: 60%;
+	margin:0 auto;
+	border:5px solid #revert;
+}
+label{
+	font-size: 25px;
+}
+.first_name , .last_name , .email , .password{ 
+	width: 90%;
+	height: 25%;
+	padding: 10px;
+	font-size: 18px;
+}
+.message{
+	font-size: 15px;
+	padding: 10px;
+}
+table{
+	width: 100%;
+	border: 1px;
+}
+th, td{
+	font-size: 22px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+td:hover {
+	background-color: skyblue;
+}
+.header{
+	mini-height: 100px;
+	background-color: skyblue;
+}
+ .container{
+ 	overflow: hidden;
+ 	border: 8px red;
+ }
+ .blog{
+ 	width: 70%;
+ 	height: 200px;
+ 	background-color: blueviolet;
+ 	float: left;
+}
+ .contact{
+ 	width: 25%;
+ 	height: 200px;
+ 	background-color: gray;
+ 	float: right;
+}
+.footer{
+	height: 100px;
+	background-color: red;
+}
+.box{
+	width: 100px;
+	height: 100px;
+}
+.black{
+	background-color: black;
+}
+.red{
+	background-color: red;
+	margin-top: 50px;
+}
+.first_name , .last_name , .email , .password{
+      background-color: skyblue;
+}
+.message {
+	background-color: skyblue;
+}
+.button{
+	background-color: red;
+}
+
